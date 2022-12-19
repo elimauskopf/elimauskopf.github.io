@@ -1,0 +1,43 @@
+body {
+    background-color: powderblue;
+  }
+
+.basic {
+    margin: auto;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 2%;
+  }
+
+.menu {
+   display: flex;
+   justify-content: center;
+}
+
+.container {
+  padding: 5em 15em 0em 15em;
+}
+
+.about {
+  overflow-wrap: break-word;
+  text-align: justify;
+}
+
+.projects {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.project {
+    margin: 2%;
+}
+
+.fit-picture {
+  height: 300px;
+  width: 500px;
+}
+
+.section {
+    margin: 1%;
+}
