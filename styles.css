@@ -91,17 +91,35 @@ a:active {
 
 
 
+
 @media screen and (max-width: 1279px) {
+
+  #profile-pic {
+    width: 50%;
+    height: 25%;
+    margin-top: 1em;
+  }
+
+  #ghost-guy {
+    width: 15%;
+    height: auto;;
+  }
+
   .container {
     padding: 5em 2em 0em 2em;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
+
   }
+  
 }
 
-
+#profile-pic {
+  width: 50%;
+  height: 25%;
+}
 
 
 
@@ -112,6 +130,8 @@ a:active {
   text-align: justify;
 }
 
+
+
 @media screen and (max-width: 1280px) {
   
   .about {
@@ -120,12 +140,9 @@ a:active {
     overflow-wrap: break-word;
     text-align: left;
   }
+
 }
 
-#profile-pic {
-  width: 50%;
-  height: 25%;
-}
 
 .projects {
   display: flex;
