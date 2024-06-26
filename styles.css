@@ -33,6 +33,10 @@
   font-family: 'fengardo_neueregular';
 }
 
+.project-title {
+  margin: auto;
+}
+
 .basic {
     margin: auto;
     font-size: 2rem;
