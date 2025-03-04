@@ -9,7 +9,8 @@ headerTemplate.innerHTML = `
 </div>
 <div class="menu">
     <a class="section" href="about.html"> About </a>
-    <a class="section" href="projects.html"> Projects </a>
+    <a class="section" href="projects.html"> GameDev Projects </a>
+    <a class="section href="webProjects.html> WebDev Projects </a>
     <a class="section" href="EliMauskopfResume2024.pdf " download="EliMauskopfResume">
         <div id="resume-row">
         Resume
