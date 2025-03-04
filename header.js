@@ -9,9 +9,10 @@ headerTemplate.innerHTML = `
 </div>
 <div class="menu">
     <a class="section" href="about.html"> About </a>
+    <a class="section" href="https://chutzbahgames.itch.io/"> Itch.io </a>
     <a class="section" href="projects.html"> GameDev Projects </a>
-    <a class="section href="webProjects.html> WebDev Projects </a>
-    <a class="section" href="EliMauskopfResume2024.pdf " download="EliMauskopfResume">
+    <a class="section" href="webProjects.html"> WebDev Projects </a>
+    <a class="section" href="EliMauskopfResume.pdf " download="EliMauskopfResume">
         <div id="resume-row">
         Resume
             <div id=#download-button>
